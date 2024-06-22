@@ -16,7 +16,7 @@ INFURA_PROJECT_ID = "a8cb0c33a1c44927a2ea6fce2b4ba608"
 BSCSCAN_API_KEY = "WHX4VAY9NTK33I5NZHNCGMYBK568CEVMSK"
 
 def show_instructions():
-    console.print("[bold green]EVM Wallet Scanner[/bold green]", style="bold")
+    console.print("[bold green]---EVM Wallet Scanner:---[/bold green]", style="bold")
     console.print("[bold red]Software Developed by Pikai[/bold red]\n")
     console.print("This software scans seed phrases to find associated wallet addresses and their balances on Ethereum, Polygon, and BSC.\n")
     console.print("[bold red]Follow the below Instructions to scan:[/bold red]")
