@@ -23,7 +23,7 @@ This software scans seed phrases to find associated wallet addresses and their b
     ```        
 
 4. **Run the Setup Script**:
-    - Open the command prompt and navigate to the `evm_wallet_scanner` directory if you aren't already there.
+    - Open the command prompt and navigate to the `evm_wallet_scanner` directory if you aren't there.
         ```sh
         cd evm_wallet_scanner
         ```
